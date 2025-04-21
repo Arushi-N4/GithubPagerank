@@ -1,7 +1,7 @@
 
 
 
-# 🔍 GitHub PageRank Comparison App
+# 🔍 GitHub PageRank Comparison Tool
 
 A Flask web application that compares the influence of two GitHub users using a **custom PageRank algorithm**. It visualizes the follower and repository network of each user, calculates their PageRank scores, and determines who has a more impactful GitHub presence.
 
